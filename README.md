@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=DSantos29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DSantos29&theme=dark&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantos29&theme=dark&hide&count=8)](https://github.com/DSantos29/github-readme-stats)
 
 ## About Me:
 
