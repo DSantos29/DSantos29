@@ -6,7 +6,9 @@
    Olá, eu sou Danilo, um desenvolvedor Front-end. Eu tenho uma paixão por criar soluções inovadoras e eficientes. Minha experiência inclui o uso de tecnologias como React e Node.js, entre outras. Sou motivado por desafios e estou sempre procurando aprender novas habilidades para melhorar meu trabalho. Estou animado para usar minhas habilidades para ajudar a criar soluções incríveis para a sua empresa.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloDSS/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloDSS/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdaniloscofield@gmail.com)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Danilo529)
 
 <div>
   <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.postimg.cc/05S8sKSz/Capturar.png?width=976&height=676">
